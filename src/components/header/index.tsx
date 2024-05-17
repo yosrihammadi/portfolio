@@ -6,7 +6,6 @@ export function Header() {
   return (
     <header className="flex justify-center border-y-2 border-dark-100 h-[100px]">
       <SocialLinks />
-
       <Nav />
       <ContactCTA />
     </header>
