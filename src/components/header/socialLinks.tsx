@@ -29,7 +29,7 @@ export function SocialLinks() {
       <Link
         href="/"
         aria-label="Home"
-        className={`text-green-100 order-1 mx-5 font-handwrite text-2xl hover:scale-110 transition-transform ${handwrite.className}`}
+        className={`text-green-100 order-1 mx-5 text-2xl hover:scale-110 transition-transform ${handwrite.className}`}
       >
         YH
       </Link>
